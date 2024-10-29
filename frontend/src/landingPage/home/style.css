@@ -1,0 +1,40 @@
+.heroBtn{
+    height: 40px;
+    width: 20% !important;
+    margin: 0 auto;
+    background: #357dd6;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: 600;
+}
+
+
+.awardImg{
+    width: 90%;
+}
+
+.statsImg{
+    width: 100%;
+}
+
+.statsLink{
+    text-decoration: none;
+
+}
+
+
+.footer{
+    background-color: #fbfbfb;
+}
+
+.footerLink{
+    text-decoration: none;
+    color: rgba(47, 41, 41, 0.835);
+    /* margin-bottom: 20px; */
+    font-weight: 600;
+}
+
+.footerLink:hover{
+    color: #357dd6;
+}
